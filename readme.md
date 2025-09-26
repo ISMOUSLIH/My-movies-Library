@@ -25,10 +25,7 @@ Users can explore movies, add them to favorites, and have their choices remember
 
 ## 📸 Demo Preview
 
-<!-- _(Add a screenshot of your app here)_ -->
 
-It should be simply:
 
-```markdown
 ![My Movies Library Screenshot](My_movies_library.png)
-```
+
