@@ -30,5 +30,5 @@ Users can explore movies, add them to favorites, and have their choices remember
 It should be simply:
 
 ```markdown
-![My Movies Library Screenshot](My-movies-library.png)
+![My Movies Library Screenshot](My_movies_library.png)
 ```
